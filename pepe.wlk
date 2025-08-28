@@ -9,5 +9,10 @@ object pepe {
 
 
 object gerente {
-  method categoria() = 15000
+  method sueldo() = 15000
+}
+
+
+object cadete {
+    method sueldo() = 20000
 }
